@@ -327,6 +327,7 @@ All rights reserved.
 
 "Above all, video games are meant to be just one thing: fun. Fun for everyone." - Satoru Iwata
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/11ad3268d9f946349675a8bbe51aa971)](https://www.codacy.com/app/Badamerda/phaser?utm_source=github.com&utm_medium=referral&utm_content=Badamerda/phaser&utm_campaign=badger)
 [![Analytics](https://ga-beacon.appspot.com/UA-44006568-2/phaser/index)](https://github.com/igrigorik/ga-beacon)
 
 [get-js]: https://github.com/photonstorm/phaser/releases/download/v2.6.2/phaser.js
